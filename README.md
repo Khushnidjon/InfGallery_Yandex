@@ -7,10 +7,10 @@
  	* Поддерживает любую ориентацию экрана.
 
 ## Скриншоты:
-![alt text](https://drive.google.com/open?id=1kQxJ5HIe_7ogI5YnYb5iPnsF5X2dX_CW)
-![alt text](https://drive.google.com/open?id=17APSDMh4LChOohgvlfnHtTGW75UbE4_6)
-![alt text](https://drive.google.com/open?id=1I4r3D42LN6mF2ZBYEA5iEMKlhcsv_9yE)
-![alt text](https://drive.google.com/open?id=1LtWGbyXBd4PHIr09fskj7YQUzpbeyJPA)
+![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg)
+![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-30.jpg)
+![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-26.jpg)
+![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-23.jpg)
 
 
 ## Все используемые библиотеки в проекте:
