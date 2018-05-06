@@ -17,7 +17,7 @@
   * Volley
   * PhotoView
   * Glide
-  * VegaLayout
+  * VegaLayout	
 
 ## Загрузите проект apk по этой ссылке:
 скачать apk [InfGallery](https://doc-00-0c-docs.googleusercontent.com/docs/securesc/mrloreuvmojdl2eri6hkae3ajm9c89ll/nii2bo3pnuvg2ppvvkv9ir9k2212fm37/1525593600000/11482773730601844163/15069332232112323495/1J1duAstlx6TTIQHgGj1Ryam51VV-7h5m?e=download)
