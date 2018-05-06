@@ -7,7 +7,12 @@
  	* Поддерживает любую ориентацию экрана.
 
 ## Скриншоты:
-![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg)  ![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-26.jpg)
+
+Album             |  Full screen
+:-------------------------:|:-------------------------:
+![Album](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg) |  ![Full Screen](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-26.jpg)
+
+  
 
 
 ## Все используемые библиотеки в проекте:
