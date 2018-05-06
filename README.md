@@ -6,14 +6,10 @@
 	* Кэширует фотографии, позволяет видеть в offline режиме все фотографии
  	* Поддерживает любую ориентацию экрана.
 
-## Скриншоты:
-Album            |  preview
-:-------------------------:|:-------------------------:
-![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg)  |  ![alt text](https://drive.google.com/open?id=17APSDMh4LChOohgvlfnHtTGW75UbE4_6)
+## Скриншоты: 
+![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg)  ![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-23.jpg)
 
-Full Screen             |  Album
-:-------------------------:|:-------------------------:
-![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-26.jpg)  |  ![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-23.jpg)
+
 
 ## Все используемые библиотеки в проекте:
   * Volley
