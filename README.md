@@ -10,11 +10,11 @@
 
 Album                                                                                                    | Preview
 :-------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:
-![album](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg)     | ![Preview](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-30.jpg)
+![album](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-28.jpg)     |![Preview](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-30.jpg)
 
 Full screen                                                                                              | Album
 :-------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:
-![Full](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-26.jpg)      | ![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-23.jpg)
+![Full](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-26.jpg)      |![alt text](https://github.com/Khushnidjon/InfGallery_Yandex/blob/master/photo_2018-05-06_15-09-23.jpg)
 
 
 
